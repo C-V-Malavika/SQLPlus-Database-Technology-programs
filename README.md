@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-This repository holds the SQLPlus exercised that were expected to be implemented as a part of lab component "UIT2311 - Database Technology Laboratory" in the third semester.
+This repository holds the SQLPlus exercises that were expected to be implemented as a part of lab component "UIT2311 - Database Technology Laboratory" in the third semester.
 
 # OVERVIEW
 
